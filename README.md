@@ -1,10 +1,11 @@
-# this 3D project is the word "moon" orbiting the earth using css 
+<img width="803" height="472" alt="image" src="https://github.com/user-attachments/assets/e7de798b-8569-4d9d-b2a4-64ca6e360017" /># this 3D project is the word "moon" orbiting the earth using css 
 
 **Moon orbiting earth**
+<img width="806" height="497" alt="Screenshot 2025-07-19 120939" src="https://github.com/user-attachments/assets/f4080428-574f-4f7a-89b5-4eeb7fcf40c9" />
+<img width="803" height="472" alt="Screenshot 2025-07-19 121016" src="https://github.com/user-attachments/assets/133a32b3-a9f0-4783-9899-380f7cb35f4a" />
 
-<img width="509" alt="Image" src="https://github.com/user-attachments/assets/44c0e4e4-a6bf-4a7e-b695-d4095df6d5fd" />
 
-- [Demo Project](https://nickaghadiany.github.io/firstproject/)
+- [Demo Project](https://nickaghadiany.github.io/earth-moon/)
 
 - Developed by nicka ghadiany
 
