@@ -1,4 +1,4 @@
-<img width="803" height="472" alt="image" src="https://github.com/user-attachments/assets/e7de798b-8569-4d9d-b2a4-64ca6e360017" /># this 3D project is the word "moon" orbiting the earth using css 
+# this 3D project is the word "moon" orbiting the earth using css 
 
 **Moon orbiting earth**
 <img width="806" height="497" alt="Screenshot 2025-07-19 120939" src="https://github.com/user-attachments/assets/f4080428-574f-4f7a-89b5-4eeb7fcf40c9" />
