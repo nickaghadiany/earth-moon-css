@@ -5,7 +5,7 @@
 <img width="803" height="472" alt="Screenshot 2025-07-19 121016" src="https://github.com/user-attachments/assets/133a32b3-a9f0-4783-9899-380f7cb35f4a" />
 
 
-- [Demo Project](https://nickaghadiany.github.io/earth-moon/)
+- [Demo Project](https://nickaghadiany.github.io/earth-moon-css/)
 
 - Developed by nicka ghadiany
 
